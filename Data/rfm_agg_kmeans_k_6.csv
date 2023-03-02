@@ -1,0 +1,7 @@
+,Cluster,RecencyMean,FrequencyMean,MonetaryMean,Count,Percent,type
+0,Cluster 0,475.0,1.0,48.0,7000,29.78,Regular
+1,Cluster 1,33.0,4.0,119.0,1503,6.4,Loyal
+2,Cluster 2,148.0,7.0,305.0,2241,9.54,Big Spender
+3,Cluster 3,284.0,3.0,107.0,4573,19.46,Cooling Down
+4,Cluster 4,500.0,1.0,15.0,7182,30.56,Lost Cheap
+5,Cluster 5,23.0,16.0,700.0,1003,4.27,Star
